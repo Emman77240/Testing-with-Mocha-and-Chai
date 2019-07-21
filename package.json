@@ -1,0 +1,23 @@
+{
+  "name": "testing-application",
+  "version": "1.0.0",
+  "description": "a simple appication to practice testing with Mocha and Chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emman77240/testing-with-Mocha---Chai.git"
+  },
+  "author": "Emmanuel Asiegbu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emman77240/testing-with-Mocha---Chai/issues"
+  },
+  "homepage": "https://github.com/Emman77240/testing-with-Mocha---Chai#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
